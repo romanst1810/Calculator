@@ -1,0 +1,11 @@
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\CalcService\bin\Debug\CalcService.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\CalcService\bin\Debug\CalcService.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\CalcService\obj\Debug\CalcService.csprojResolveAssemblyReference.cache
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\CalcService\obj\Debug\CalcService.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\CalcService\obj\Debug\CalcService.pdb
+C:\Users\ronan\source\repos\Simple-Calculator\CalcService\bin\Debug\CalcService.dll
+C:\Users\ronan\source\repos\Simple-Calculator\CalcService\bin\Debug\CalcService.pdb
+C:\Users\ronan\source\repos\Simple-Calculator\CalcService\obj\Debug\CalcService.csproj.AssemblyReference.cache
+C:\Users\ronan\source\repos\Simple-Calculator\CalcService\obj\Debug\CalcService.csproj.CoreCompileInputs.cache
+C:\Users\ronan\source\repos\Simple-Calculator\CalcService\obj\Debug\CalcService.dll
+C:\Users\ronan\source\repos\Simple-Calculator\CalcService\obj\Debug\CalcService.pdb

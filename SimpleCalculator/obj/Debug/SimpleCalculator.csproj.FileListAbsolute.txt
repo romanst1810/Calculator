@@ -1,0 +1,186 @@
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\ApplicationInsights.config
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\roslyn\csc.exe
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\roslyn\System.Collections.Immutable.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\roslyn\System.Reflection.Metadata.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\roslyn\vbc.exe
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\roslyn\VBCSCompiler.exe
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\roslyn\VBCSCompiler.exe.config
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.dll.config
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Antlr3.Runtime.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\EntityFramework.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\EntityFramework.SqlServer.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.DependencyCollector.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.Web.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.WindowsServer.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.ApplicationInsights.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AspNet.Identity.Core.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.Cookies.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.Facebook.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.Google.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.OAuth.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.Twitter.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Web.Infrastructure.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Newtonsoft.Json.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Owin.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Net.Http.Formatting.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Helpers.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Http.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Http.Owin.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Http.WebHost.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Mvc.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Optimization.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Razor.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.WebPages.Deployment.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.WebPages.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.WebPages.Razor.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\WebGrease.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.DependencyCollector.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.Web.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.WindowsServer.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.ApplicationInsights.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Newtonsoft.Json.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Net.Http.Formatting.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Helpers.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Http.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Http.WebHost.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Mvc.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Optimization.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Razor.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.WebPages.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.WebPages.Deployment.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.WebPages.Razor.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Antlr3.Runtime.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\EntityFramework.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\EntityFramework.SqlServer.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AspNet.Identity.Core.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.Facebook.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.Cookies.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.OAuth.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.Google.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.Twitter.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\System.Web.Http.Owin.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\CalcService.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\SimpleCalculator\bin\CalcService.pdb
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\ApplicationInsights.config
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\roslyn\csc.exe
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\roslyn\vbc.exe
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\SimpleCalculator.dll.config
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\SimpleCalculator.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\SimpleCalculator.pdb
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Antlr3.Runtime.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\CalcService.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\EntityFramework.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\EntityFramework.SqlServer.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AI.Web.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Newtonsoft.Json.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Owin.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Net.Http.Formatting.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Helpers.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Http.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Http.Owin.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Http.WebHost.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Mvc.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Optimization.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Razor.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.WebPages.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.WebPages.Razor.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\WebGrease.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\CalcService.pdb
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AI.Web.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Newtonsoft.Json.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Net.Http.Formatting.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Helpers.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Http.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Http.WebHost.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Mvc.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Optimization.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Razor.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.WebPages.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.WebPages.Razor.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Antlr3.Runtime.pdb
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\EntityFramework.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\EntityFramework.SqlServer.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\bin\System.Web.Http.Owin.xml
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CopyComplete
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+C:\Users\ronan\source\repos\Simple-Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
